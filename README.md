@@ -1,7 +1,7 @@
-# PythOS Pro
-The new package for PythOS!
+# Server Package for PythOS Developers Edition
+The new package for PythOS Developers Edition!
 ### Requirements ✔
-- The normal [PythOS](https://github.com/Captain-Awesome-Jnr/PythOS)
+- [PythOS Developers Edition](https://github.com/Captain-Awesome-Jnr/PythOS-Dev-Edition)
 
 .
 
