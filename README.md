@@ -1,3 +1,5 @@
+Note that this project has been cancelled.
+
 # Server Package for PythOS Developers Edition
 The new package for PythOS Developers Edition!
 ### Requirements ✔
